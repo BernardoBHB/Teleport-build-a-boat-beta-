@@ -8,9 +8,9 @@ local player = game.Players.LocalPlayer
 local locais = {
 	Slot1 = {nome = "ultima area", coords = CFrame.new(-1.861766, 3295.577881, 2265.220459)},
 	Slot2 = {nome = "area inicial", coords = CFrame.new(45.803066, 2.998025, 27.018297)},
-	Slot3 = {nome = "Arena", coords = CFrame.new(150, 10, 150)},
-	Slot4 = {nome = "Loja", coords = CFrame.new(-100, 10, 50)},
-	Slot5 = {nome = "Boss", coords = CFrame.new(300, 20, -200)}
+	Slot3 = {nome = "none", coords = CFrame.new(150, 10, 150)},
+	Slot4 = {nome = "none", coords = CFrame.new(-100, 10, 50)},
+	Slot5 = {nome = "none", coords = CFrame.new(300, 20, -200)}
 }
 
 -- ==========================================
